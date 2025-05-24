@@ -14,7 +14,6 @@ CHOICES = ["Rock", "Paper", "Scissors"]
 # Excel file path
 EXCEL_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "rps_data.xlsx")
 
-# Color theme
 COLORS = {
     "background": [32, 32, 32],
     "primary": [65, 105, 225],    # Royal Blue
